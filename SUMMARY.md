@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Dedicated to the Boy Scouts of America](README.md)
+
 ## What to Pay Attention To
 
-* [Time](README.md)
+* [Time](what-to-pay-attention-to/time.md)
 * [Motivation](what-to-pay-attention-to/motivation.md)
 * [Material World](what-to-pay-attention-to/material-world.md)
 
